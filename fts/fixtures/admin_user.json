@@ -3,7 +3,7 @@
     "pk": 1,
     "model": "auth.user",
     "fields": {
-      "username": "blannon",
+      "username": "",
       "first_name": "",
       "last_name": "",
       "is_active": true,
@@ -12,8 +12,8 @@
       "last_login": "2012-06-19T14:49:53.474Z",
       "groups": [],
       "user_permissions": [],
-      "password": "***REMOVED***",
-      "email": "blannon@gmail.com",
+      "password": "",
+      "email": "",
       "date_joined": "2012-06-19T13:55:09.119Z"
     }
   }

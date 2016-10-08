@@ -18,7 +18,7 @@ from knowledge_base.models import Ad, \
 
 from whopaid_api.views import make_media_response_dict,BASE_URL,SHARE_TEXT
 
-API = InfluenceExplorer('***REMOVED***')
+API = InfluenceExplorer('')
 
 class Contributor():
     def __init__(self,name,amount):

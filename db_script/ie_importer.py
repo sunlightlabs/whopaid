@@ -4,7 +4,7 @@ import logging
 
 from knowledge_base.models import CommitteeType
 
-API = InfluenceExplorer('***REMOVED***')
+API = InfluenceExplorer('')
 
 log = logging.getLogger('db_script.ie_importer')
 
